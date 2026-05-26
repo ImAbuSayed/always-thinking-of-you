@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-thinking-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Always Thinking Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-thinking-of-you/) |
+| **Get License** | [Official Music Licensing for Always Thinking Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-thinking-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b0b10578dda571cc0184a71ada0c8724bbe46ab3c1c9822d933ba20b7141ba00` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
