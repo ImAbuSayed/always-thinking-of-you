@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-thinking-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Always Thinking Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-thinking-of-you/) |
+| **Get License** | [License this song: Always Thinking Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-thinking-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I’ve been nursing this bourbon to slow down the time
+> But your midnight shadow’s still crossing my mind
+> Every breath that I take is a spark in the dark
+> Got this slow-burning fire right here in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
